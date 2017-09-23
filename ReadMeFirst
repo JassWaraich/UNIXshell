@@ -1,0 +1,12 @@
+1.As this is a shell demonstartion, so UNIX based OS is a prerequisite.
+2.You can download Ubuntu from https://www.ubuntu.com/download/desktop
+3.Copy the code and save it to the file.
+4.Feel free to modify the code using any editor e.g. vi
+5.Complie it using the command: gcc filename.
+6.Execute the file using ./filename
+7.Please keep in mind that:
+    Arguments must be separated by whitespace.
+    Commands must be on a single line.
+    No quoting arguments or escaping whitespace.
+    No piping or redirection.
+
